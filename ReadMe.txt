@@ -1,0 +1,4 @@
+- Each of the notebooks are labeled by which weeks work they include, simply open the folder in jupyter notebooks
+- The notebooks with graphs (Weeks 3, 4, 5) are configured for dark theme users, see the first markdown cell in these notebooks for more info
+- Dependencies: Pandas, Matplotlib, Numpy
+- Raw data is taken from github, no dataset files are required
